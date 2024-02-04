@@ -1,0 +1,76 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffe6c4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    max-width: 800px;
+    margin: 30px auto;
+    background-color: #ffe6b4;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #004080;
+}
+
+hr {
+    border: 1px solid #ddd;
+}
+
+button {
+    background-color: #004080;
+    color: #fff;
+    padding: 10px;
+    border: 3px solid  #004080;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: large;
+}
+
+button:hover {
+    background-color: #0066cc;
+    cursor: pointer;
+
+}
+
+p1 {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    
+}
+
+.center {
+    text-align: center;
+}
+
+.vissza {
+    background-color: #1ba2f7;
+}
+
+.vissza:hover {
+    background-color: #6bf5ff;
+}
+
+.tovabb {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.gamingdiv {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:#fddd9d ;
+    border-radius: 10px;
+}
+
+.gamingp1 {
+    margin-left: 40px;
+    margin-right: 30px;
+}
